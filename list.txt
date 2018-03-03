@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 This is the first commit
 
 This is the second commit
+=======
+This is the first commit
+>>>>>>> parent of 3406610... second commit
